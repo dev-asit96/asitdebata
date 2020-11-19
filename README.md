@@ -1,3 +1,2 @@
-# Hi, I'm Asit :man:computer:
-
+# Hi, I'm Asit 	:+1: :technologist:
 
