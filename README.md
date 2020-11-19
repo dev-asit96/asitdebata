@@ -1,6 +1,6 @@
 ### Hi there, I'm Asit 	:+1: :technologist:
 
-![Simple Work LinkedIn Banner](https://user-images.githubusercontent.com/34277800/99641217-f3554c00-2a17-11eb-8ef4-b99b97baa52a.png)
+![Simple Work LinkedIn Banner (1)](https://user-images.githubusercontent.com/34277800/99704779-d6943500-2a66-11eb-9c20-6beb25c71d1a.png)
 
 I'm a software engineer who is passionate about craeting technology to elevate people, and building people.
 Some technologies I enjoy working with include ReactJS, MongoDB, Flutter. 
