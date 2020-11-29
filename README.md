@@ -4,7 +4,7 @@
 
 I'm a software engineer who is passionate about creating technology to elevate people, and building people.
 Some technologies I enjoy working with include ReactJS, MongoDB, Flutter. 
-My interest in the React Ecosystem led me to develope my own E-commerce project. :trophy: :thumbsup:
+My interest in the React Ecosystem led me to develop my own E-commerce project. :trophy: :thumbsup:
 <br />
 
 ## My values
