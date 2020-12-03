@@ -21,6 +21,8 @@ My interest in the React Ecosystem led me to develop my own E-commerce project. 
 [<img align="left" alt="asit | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/facebook.svg" />][facebook]
 [<img align="left" alt="asit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="asit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="asit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codecademy.svg" />][codecademy]
+[<img align="left" alt="asit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 <br />
 
@@ -51,3 +53,5 @@ My interest in the React Ecosystem led me to develop my own E-commerce project. 
 [linkedin]: https://www.linkedin.com/in/asitdebata
 [hackerrank]: https://www.hackerrank.com/asitdebata96
 [aboutme]: https://about.me/asit96
+[medium]: https://medium.com/@devasit
+[codecademy]: https://www.codecademy.com/profiles/asitdebata
