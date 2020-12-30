@@ -16,16 +16,18 @@ My interest in the React Ecosystem led me to develop my own E-commerce project. 
 
 ### Connect with me:
 
-[<img align="left" alt="asit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="asit | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="asit | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/facebook.svg" />][facebook]
-[<img align="left" alt="asit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="asit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="asit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codecademy.svg" />][codecademy]
-[<img align="left" alt="asit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="asit | LinkedIn" width="85px" src="https://img.shields.io/badge/linkedin-0095b6?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
+[<img align="left" alt="asit | HackerRank" width="85px" src="https://img.shields.io/badge/hackerrank-008000?style=for-the-badge&logo=Hackerrank&logoColor=white" />][hackerrank]
+[<img align="left" alt="asit | Facebook" width="85px" src="https://img.shields.io/badge/Facebook-0080FF?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="asit | Twitter" width="85px" src="https://img.shields.io/badge/twitter-00b9bc?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="asit | Codecademy" width="90px" src="https://img.shields.io/badge/codecademy-757575?style=for-the-badge&logo=codecademy&logoColor=white" />][codecademy]
+[<img align="left" alt="asit | Medium" width="85px" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=Medium&logoColor=white" />][medium]
 
 <br />
+<br />
 
+
+![Asit's github stats](https://github-readme-stats.vercel.app/api?username=dev-asit96) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-asit96&layout=compact)
 
 ### Languages and Tools:
 
