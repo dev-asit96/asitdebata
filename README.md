@@ -16,12 +16,12 @@ My interest in the React Ecosystem led me to develop my own E-commerce project. 
 
 ### Connect with me:
 
-[<img align="left" alt="asit | LinkedIn" width="85px" src="https://img.shields.io/badge/linkedin-0095b6?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
-[<img align="left" alt="asit | HackerRank" width="85px" src="https://img.shields.io/badge/hackerrank-008000?style=for-the-badge&logo=Hackerrank&logoColor=white" />][hackerrank]
-[<img align="left" alt="asit | Facebook" width="85px" src="https://img.shields.io/badge/Facebook-0080FF?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="asit | Twitter" width="85px" src="https://img.shields.io/badge/twitter-00b9bc?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
-[<img align="left" alt="asit | Codecademy" width="90px" src="https://img.shields.io/badge/codecademy-757575?style=for-the-badge&logo=codecademy&logoColor=white" />][codecademy]
-[<img align="left" alt="asit | Medium" width="85px" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=Medium&logoColor=white" />][medium]
+[<img align="left" alt="asit | LinkedIn" width="85px" src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
+[<img align="left" alt="asit | HackerRank" width="95px" src="https://img.shields.io/badge/hackerrank-008000?style=for-the-badge&logo=Hackerrank&logoColor=white" />][hackerrank]
+[<img align="left" alt="asit | Facebook" width="85px" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="asit | Twitter" width="82px" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="asit | Codecademy" width="98px" src="https://img.shields.io/badge/codecademy-757575?style=for-the-badge&logo=codecademy&logoColor=white" />][codecademy]
+[<img align="left" alt="asit | Medium" width="80px" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=Medium&logoColor=white" />][medium]
 
 <br />
 <br />
