@@ -1,10 +1,10 @@
-### Hi there, I'm Asit:
+### Hi there, I'm Asit
 
 ![Simple Work LinkedIn Banner (1)](https://user-images.githubusercontent.com/34277800/99704779-d6943500-2a66-11eb-9c20-6beb25c71d1a.png)
 
-I'm a software engineer who is passionate about creating technology to elevate people, and building people.
-Some technologies I enjoy working with include ReactJS, MongoDB, Flutter. 
-My interest in the React Ecosystem led me to develop my own E-commerce project. :trophy: :thumbsup:
+I'm a software engineer passionate about creating technology to elevate people and building people.
+Some technologies I enjoy working with include ReactJS, MongoDB, and Typescript. 
+My interest in the React Ecosystem led me to develop my E-commerce project. :trophy: :thumbsup:
 <br />
 
 ## My values
