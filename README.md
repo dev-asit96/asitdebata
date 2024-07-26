@@ -1,4 +1,4 @@
-### Hi there, I'm Asit 	:+1: :technologist:
+### Hi there, I'm Asit:
 
 ![Simple Work LinkedIn Banner (1)](https://user-images.githubusercontent.com/34277800/99704779-d6943500-2a66-11eb-9c20-6beb25c71d1a.png)
 
